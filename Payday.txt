@@ -9,14 +9,14 @@
 		"Banner": "Admob"
 	},
 	"Admob": {
-		"Admob_adstatus": false,
-		"Admob_Appopen": "ca-app-pub-3940256099942544/3419835294",
-		"Admob_Interstrial": "ca-app-pub-3940256099942544/1033173712",
-		"Admob_Native": "ca-app-pub-3940256099942544/2247696110",
-		"Admob_Banner": "ca-app-pub-3940256099942544/6300978111"
+		"Admob_adstatus": true,
+		"Admob_Appopen": "/22191932014/Rutvik_Payday_advance_open",
+		"Admob_Interstrial": "/22191932014/Rutvik_Payday_advance_inter",
+		"Admob_Native": "/22191932014/Rutvik_Payday_advance_native",
+		"Admob_Banner": "/22191932014/Rutvik_Payday_advance_banner"
 	},
 	"Facebook": {
-		"FB_adstatus": true,
+		"FB_adstatus": false,
 		"FB_Interstrial": "566993832043469_567417118667807",
 		"FB_Native": "566993832043469_567417172001135",
 		"FB_Banner": "566993832043469_567417048667814"
@@ -32,13 +32,13 @@
 		"Native_Count": 0,
 		"Banner_Count": 0,
 		"Back_Inter_count":0,
-		"onResumeOpenAd": false
+		"onResumeOpenAd": true
 	},
 	"NativeBlink": false,
 	"NativeBanner": false,
 	"AdDialog": true,
 	"BackAd": true,
-	"BackAdPlatform": "Facebook",
+	"BackAdPlatform": "Admob",
 	"ExtraScreen": "0",
 	"PrivacyPolicy": ""
 }
