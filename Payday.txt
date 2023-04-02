@@ -10,10 +10,10 @@
 	},
 	"Admob": {
 		"Admob_adstatus": true,
-		"Admob_Appopen": "/22191932014/Rutvik_Payday_advance_open",
-		"Admob_Interstrial": "/22191932014/Rutvik_Payday_advance_inter",
-		"Admob_Native": "/22191932014/Rutvik_Payday_advance_native",
-		"Admob_Banner": "/22191932014/Rutvik_Payday_advance_banner"
+		"Admob_Appopen": "/22892076798/pydyopen",
+		"Admob_Interstrial": "/22892076798/pydyintr",
+		"Admob_Native": "/22892076798/pydynative",
+		"Admob_Banner": "/22892076798/pydybnr"
 	},
 	"Facebook": {
 		"FB_adstatus": false,
